@@ -1,0 +1,105 @@
+date,description,category,type,amount
+2026-01-03,Stripe payout - January batch 1,revenue,income,18420.55
+2026-01-10,Stripe payout - January batch 2,revenue,income,16980.20
+2026-01-17,ACH deposit - Northwind Retainer,revenue,income,9500.00
+2026-01-24,Stripe payout - January batch 3,revenue,income,17340.75
+2026-01-31,ACH deposit - Contoso Project Milestone,revenue,income,12250.00
+2026-01-15,Payroll run - Jan 1st half,payroll,expense,21850.00
+2026-01-31,Payroll run - Jan 2nd half,payroll,expense,21850.00
+2026-01-05,GitHub Team seats,software subscriptions,expense,210.00
+2026-01-07,Slack Business+,software subscriptions,expense,187.50
+2026-01-12,Adobe Creative Cloud,software subscriptions,expense,329.99
+2026-01-20,AWS usage - January,software subscriptions,expense,1145.80
+2026-01-22,Figma Organization,software subscriptions,expense,180.00
+2026-01-09,Staples - paper and toner,office supplies,expense,142.35
+2026-01-18,Uline - shipping boxes,office supplies,expense,268.90
+2026-01-26,Amazon Business - desk accessories,office supplies,expense,95.40
+2026-01-08,Google Ads - January,marketing,expense,2400.00
+2026-01-14,LinkedIn Ads campaign,marketing,expense,1650.00
+2026-01-28,Conference sponsorship deposit,marketing,expense,1200.00
+2026-02-07,Stripe payout - February batch 1,revenue,income,19120.40
+2026-02-14,Stripe payout - February batch 2,revenue,income,18760.15
+2026-02-17,ACH deposit - Northwind Retainer,revenue,income,9500.00
+2026-02-21,Stripe payout - February batch 3,revenue,income,17890.60
+2026-02-28,ACH deposit - Contoso Project Milestone,revenue,income,12250.00
+2026-02-13,Payroll run - Feb 1st half,payroll,expense,21850.00
+2026-02-27,Payroll run - Feb 2nd half,payroll,expense,22450.00
+2026-02-05,GitHub Team seats,software subscriptions,expense,210.00
+2026-02-07,Slack Business+,software subscriptions,expense,187.50
+2026-02-12,Adobe Creative Cloud,software subscriptions,expense,329.99
+2026-02-20,AWS usage - February,software subscriptions,expense,1320.45
+2026-02-22,Figma Organization,software subscriptions,expense,180.00
+2026-02-10,Staples - paper and toner,office supplies,expense,118.70
+2026-02-19,Uline - shipping boxes,office supplies,expense,243.15
+2026-02-25,Amazon Business - cables and adapters,office supplies,expense,134.20
+2026-02-06,Google Ads - February,marketing,expense,2550.00
+2026-02-14,LinkedIn Ads campaign,marketing,expense,1720.00
+2026-02-24,Trade show booth payment,marketing,expense,3100.00
+2026-03-06,Stripe payout - March batch 1,revenue,income,20210.30
+2026-03-13,Stripe payout - March batch 2,revenue,income,19540.85
+2026-03-17,ACH deposit - Northwind Retainer,revenue,income,9500.00
+2026-03-20,Stripe payout - March batch 3,revenue,income,18995.45
+2026-03-31,ACH deposit - Wingtip New Contract,revenue,income,31500.00
+2026-03-13,Payroll run - Mar 1st half,payroll,expense,22450.00
+2026-03-31,Payroll run - Mar 2nd half,payroll,expense,22450.00
+2026-03-05,GitHub Team seats,software subscriptions,expense,235.00
+2026-03-07,Slack Business+,software subscriptions,expense,187.50
+2026-03-12,Adobe Creative Cloud,software subscriptions,expense,329.99
+2026-03-20,AWS usage - March,software subscriptions,expense,1410.25
+2026-03-22,Figma Organization,software subscriptions,expense,180.00
+2026-03-11,Staples - paper and toner,office supplies,expense,156.80
+2026-03-18,Uline - shipping boxes,office supplies,expense,289.50
+2026-03-27,Amazon Business - office chair,office supplies,expense,312.00
+2026-03-04,Google Ads - March,marketing,expense,2600.00
+2026-03-16,LinkedIn Ads campaign,marketing,expense,1780.00
+2026-04-03,Stripe payout - April batch 1,revenue,income,19880.10
+2026-04-10,Stripe payout - April batch 2,revenue,income,18450.65
+2026-04-17,ACH deposit - Northwind Retainer,revenue,income,9500.00
+2026-04-24,Stripe payout - April batch 3,revenue,income,17920.30
+2026-04-30,ACH deposit - Contoso Project Milestone,revenue,income,12250.00
+2026-04-15,Payroll run - Apr 1st half,payroll,expense,22450.00
+2026-04-30,Payroll run - Apr 2nd half,payroll,expense,22450.00
+2026-04-06,GitHub Team seats,software subscriptions,expense,235.00
+2026-04-07,Slack Business+,software subscriptions,expense,187.50
+2026-04-12,Adobe Creative Cloud,software subscriptions,expense,329.99
+2026-04-20,AWS usage - April,software subscriptions,expense,4980.60
+2026-04-22,Figma Organization,software subscriptions,expense,180.00
+2026-04-09,Staples - paper and toner,office supplies,expense,128.45
+2026-04-21,Uline - shipping boxes,office supplies,expense,255.70
+2026-04-08,Google Ads - April,marketing,expense,2650.00
+2026-04-15,LinkedIn Ads campaign,marketing,expense,1810.00
+2026-05-08,Stripe payout - May batch 1,revenue,income,20540.75
+2026-05-15,Stripe payout - May batch 2,revenue,income,19980.40
+2026-05-17,ACH deposit - Northwind Retainer,revenue,income,9500.00
+2026-05-22,Stripe payout - May batch 3,revenue,income,18760.55
+2026-05-31,ACH deposit - Wingtip Milestone,revenue,income,15750.00
+2026-05-15,Payroll run - May 1st half,payroll,expense,22450.00
+2026-05-29,Payroll run - May 2nd half,payroll,expense,23100.00
+2026-05-05,GitHub Team seats,software subscriptions,expense,235.00
+2026-05-07,Slack Business+,software subscriptions,expense,198.00
+2026-05-12,Adobe Creative Cloud,software subscriptions,expense,329.99
+2026-05-20,AWS usage - May,software subscriptions,expense,1485.90
+2026-05-22,Figma Organization,software subscriptions,expense,180.00
+2026-05-10,Staples - paper and toner,office supplies,expense,139.60
+2026-05-19,Uline - shipping boxes,office supplies,expense,271.25
+2026-05-26,Amazon Business - monitor stand,office supplies,expense,148.90
+2026-05-06,Google Ads - May,marketing,expense,2700.00
+2026-05-14,LinkedIn Ads campaign,marketing,expense,1850.00
+2026-05-23,Influencer partnership payout,marketing,expense,8500.00
+2026-06-05,Stripe payout - June batch 1,revenue,income,21010.20
+2026-06-12,Stripe payout - June batch 2,revenue,income,20330.85
+2026-06-17,ACH deposit - Northwind Retainer,revenue,income,9500.00
+2026-06-19,Stripe payout - June batch 3,revenue,income,19440.15
+2026-06-30,ACH deposit - Contoso Project Milestone,revenue,income,12250.00
+2026-06-15,Payroll run - Jun 1st half,payroll,expense,23100.00
+2026-06-30,Payroll run - Jun 2nd half,payroll,expense,23100.00
+2026-06-05,GitHub Team seats,software subscriptions,expense,235.00
+2026-06-07,Slack Business+,software subscriptions,expense,198.00
+2026-06-12,Adobe Creative Cloud,software subscriptions,expense,329.99
+2026-06-20,AWS usage - June,software subscriptions,expense,1520.35
+2026-06-22,Figma Organization,software subscriptions,expense,180.00
+2026-06-11,Staples - paper and toner,office supplies,expense,144.05
+2026-06-18,Uline - shipping boxes,office supplies,expense,262.40
+2026-06-24,Amazon Business - whiteboard,office supplies,expense,89.99
+2026-06-04,Google Ads - June,marketing,expense,2750.00
+2026-06-16,LinkedIn Ads campaign,marketing,expense,1890.00
