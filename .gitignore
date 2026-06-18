@@ -5,3 +5,5 @@ __pycache__/
 report.md
 .env
 venv/
+analysis.json
+audit_log.jsonl
