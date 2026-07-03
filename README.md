@@ -260,6 +260,3 @@ category-relative statistics rather than global thresholds, how confidence
 scoring and small-sample discounting keep automated flags trustworthy, and why
 an append-only audit trail matters in any system that touches the books.
 
-FinSight is the smallest end-to-end project that exercises both: real statistics,
-a real agent contract, and an auditable history, in a domain where being wrong
-has consequences.
