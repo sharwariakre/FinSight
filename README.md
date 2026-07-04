@@ -245,18 +245,4 @@ one-off marketing spend worth confirming against a contract; and the Wingtip
 deposit is a genuine revenue event that should be attributed to a specific deal
 so forecasts are not inflated.
 
-## Why I built it
-
-I built FinSight to learn two things at once.
-
-The first is the OpenClaw skill framework: how a `SKILL.md` manifest tells an
-agent when and how to invoke a tool, how to structure the handoff between a
-deterministic script and a reasoning layer, and how to keep the model from
-fabricating numbers by giving it a strict structured contract to work from.
-
-The second is the financial intelligence domain: how production AI financial
-tools like Go Fig's Celeste are architected, why variance analysis is built on
-category-relative statistics rather than global thresholds, how confidence
-scoring and small-sample discounting keep automated flags trustworthy, and why
-an append-only audit trail matters in any system that touches the books.
 
