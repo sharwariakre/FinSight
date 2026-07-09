@@ -5,11 +5,6 @@ CSV, computes income and expense statistics by category, flags transactions that
 deviate beyond a configurable standard-deviation threshold, and hands the
 results to an OpenClaw agent that writes the prose a CFO actually wants to read.
 
-It mirrors the architecture of enterprise AI financial tools such as Go Fig's
-Celeste: a deterministic numerical engine does the math, and a language model
-reasons over the structured results to produce narrative, recommendations, and
-an executive summary. The numbers are auditable and reproducible; the
-storytelling is delegated to the model.
 
 ## Project structure
 
