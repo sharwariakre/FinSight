@@ -1,9 +1,19 @@
 # FinSight
 
-A financial variance analyst skill for OpenClaw. FinSight ingests a transactions
-CSV, computes income and expense statistics by category, flags transactions that
-deviate beyond a configurable standard-deviation threshold, and hands the
-results to an OpenClaw agent that writes the prose a CFO actually wants to read.
+**A financial variance analyst skill for OpenClaw.** Point it at a transactions
+CSV and it tells you what looks off — which charges spiked, which deposits are
+unusual, and what to do about each one — in language a CFO can drop into a board
+deck.
+
+The hard part of financial anomaly detection is not the statistics; it is trust.
+A number flagged by a black box is a number nobody acts on. FinSight splits the
+work so that both halves are trustworthy: a deterministic Python engine does the
+math — the same CSV always yields the same flags, and every figure is traceable
+— and an OpenClaw agent reasons over those structured results to explain what
+each anomaly means and what to verify before close. The engine never guesses;
+the agent never invents a number. Every run is also written to an append-only
+audit log, so the books have a history you can point to.
+
 
 
 ## Project structure
